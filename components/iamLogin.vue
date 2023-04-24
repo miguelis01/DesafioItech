@@ -3,7 +3,6 @@
     <main class="form-signin w-100 m-auto">      
       <form>
         <div style="margin-left: 64px">
-        <NuxtLink to="/iam/"><img src="~~/iam/ui/img/nuxt-iam-logo.png/" style="width: 150px"/></NuxtLink>
       </div>
         <h1 class="h3 mb-3 fw-normal">Login</h1>
         <!-- Error message -->
